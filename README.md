@@ -1,2 +1,2 @@
 # MyCodeSandbox
-Created with CodeSandbox
+A portfolio of personal work
